@@ -2,7 +2,7 @@
 - 👀 I’m interested in role of SDE 1
 - 🌱 I’m currently learning Full Stack Web Development
 - 💞️ I’m looking to collaborate on any Project
-- 📫 You can reach me at kmrakshay@outlook.com or 9835847832
+- 📫 You can reach me at kmrakshay@outlook.com or 9241322086
 
 <!---
 Kr-Akshay/Kr-Akshay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
